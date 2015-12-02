@@ -1,0 +1,7 @@
+pre {
+    display: block;
+    font-family: Arial, "Times New Roman", Times, serif;
+    font-size: 12px;
+    white-space: pre;
+    margin: 1em 0;
+}
